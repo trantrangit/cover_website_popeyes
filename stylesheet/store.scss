@@ -1,0 +1,87 @@
+@import 'system';
+ 
+ .box-googlemap
+ {
+	position:relative;
+	width:100%;
+	height:$height-map;
+	overflow:hidden;
+	#map
+	 {
+		width:100%;
+		height:$height-map;
+		position:absolute;
+		top:0;
+	 }
+	.address-store 
+	{
+		position:absolute;
+		background:$color-red;
+		width:$width-address;
+		box-sizing:border-box;
+		top:0;
+		right:50px;
+		
+		
+		
+
+	}
+	.list-address 
+	{
+		overflow-y:scroll;
+		height:$height-map - 117px;
+		overflow-x:hidden;
+		.box-address 
+		{
+			padding:10px;
+			h4
+			{
+				color:$color-orange;
+			
+			}
+			.border-box 
+			{
+				font-size:$fontsize - 0.2em;
+				border:1px solid $color-orange;
+				color:$color-while;
+				padding:5px;
+				img
+				{
+					width:120px;
+					max-width:100%;
+
+					object-fix:cover;
+					height:120px;
+					max-height:100%;
+				}
+			}	
+		}
+	}
+	/* width */
+	::-webkit-scrollbar {
+		width: 10px;
+	}
+
+	/* Track */
+	::-webkit-scrollbar-track {
+		background:$color-red; 
+	}
+ 
+	/* Handle */
+	::-webkit-scrollbar-thumb {
+		background:$color-orange; 
+	}
+
+	/* Handle on hover */
+	::-webkit-scrollbar-thumb:hover {
+		background:$color-orange; 
+	}
+	.sel-address
+	{
+		height: 44px;
+		width: 99%;
+		box-shadow: 0px 0px 5px;
+		
+	}
+ 
+ }

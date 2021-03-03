@@ -1,0 +1,107 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 1em; }
+  bodybefore
+, htmlbefore {
+    content: "";
+    box-sizing: border-box; }
+
+.menu-mobile {
+  height: 74px;
+  width: 100%;
+  margin-top: 76px;
+  /*#tab1:checked ~ #content1,
+		#tab2:checked ~ #content2,
+		#tab3:checked ~ #content3,
+		#tab4:checked ~ #content4 {
+		  display: block;
+		}
+		*/ }
+  .menu-mobile .list-menu, .menu-mobile
+.login {
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold; }
+    .menu-mobile .list-menu .nav-item, .menu-mobile .list-menu
+li
+, .menu-mobile
+.login .nav-item, .menu-mobile
+.login
+li {
+      padding: 10px;
+      border-bottom: 1px dotted #ff7900; }
+      .menu-mobile .list-menu .nav-item
+a
+, .menu-mobile .list-menu
+li
+a
+, .menu-mobile
+.login .nav-item
+a
+, .menu-mobile
+.login
+li
+a {
+        text-decoration: none;
+        color: #ff7900; }
+      .menu-mobile .list-menu .nav-item
+.menu-food
+, .menu-mobile .list-menu
+li
+.menu-food
+, .menu-mobile
+.login .nav-item
+.menu-food
+, .menu-mobile
+.login
+li
+.menu-food {
+        list-style: none; }
+    .menu-mobile .list-menu
+a
+, .menu-mobile
+.login
+a {
+      text-decoration: none;
+      color: #ff7900; }
+  .menu-mobile section {
+    display: none;
+    padding: 20px 0 0;
+    border-top: 1px solid #ddd;
+    background: #fff; }
+  .menu-mobile input {
+    display: none;
+    background: #fff; }
+  .menu-mobile label {
+    display: inline-block;
+    margin: 0 0 -1px;
+    padding: 10px 25px;
+    text-align: center;
+    color: #bbb;
+    border: 1px solid transparent;
+    font-size: 1.2em;
+    width: 32%;
+    background: #fff; }
+  .menu-mobile label:before {
+    font-family: fontawesome;
+    font-weight: normal; }
+  .menu-mobile label[for*='1']:before {
+    content: '\f0c9'; }
+  .menu-mobile label[for*='2']:before {
+    content: '\f007'; }
+  .menu-mobile label[for*='3']:before {
+    content: '\f07a'; }
+  .menu-mobile label:hover {
+    color: #888;
+    cursor: pointer; }
+  .menu-mobile input:checked + label {
+    color: #555;
+    border: 1px solid #ddd;
+    border-bottom: 1px solid #fff; }

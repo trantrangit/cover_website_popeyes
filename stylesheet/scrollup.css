@@ -1,0 +1,15 @@
+#scrollUp {
+  background-image: url("/images/top.PNG");
+  bottom: 20px;
+  right: 20px;
+  width: 59px;
+  /* Width of image */
+  height: 58px;
+  /* Height of image */
+  position: relative; }
+  #scrollUp:before {
+    content: url("/images/giahang-vie.png");
+    position: absolute;
+    right: 80px; }
+
+/*# sourceMappingURL=scrollup.css.map */

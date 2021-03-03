@@ -1,0 +1,93 @@
+﻿.main-promotion
+.program-promotion
+.item-promotion
+.img-info-promotion
+img {
+  -webkit-box-shadow: -2px 28px 64px -14px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: -2px 28px 64px -14px rgba(0, 0, 0, 0.2);
+  box-shadow: -2px 28px 64px -14px rgba(0, 0, 0, 0.2); }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 1em; }
+  bodybefore
+, htmlbefore {
+    content: "";
+    box-sizing: border-box; }
+
+.main-promotion {
+  background: rgba(252, 241, 221, 0.5) url("/images/bg-coupon.png") no-repeat scroll;
+  background-size: 100%;
+  clear: both;
+  height: auto;
+  width: 100%;
+  margin-top: 0px; }
+  .main-promotion
+.box-title {
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .main-promotion
+.box-title
+img {
+      width: 80%;
+      max-width: 100%; }
+  .main-promotion
+.content-title {
+    text-align: center; }
+  .main-promotion
+.program-promotion {
+    text-align: center; }
+    .main-promotion
+.program-promotion
+.info-promotion h3 {
+      color: #a31806; }
+    .main-promotion
+.program-promotion
+.item-promotion {
+      position: relative; }
+      .main-promotion
+.program-promotion
+.item-promotion
+.img-info-promotion {
+        top: 0;
+        margin-top: 50px;
+        margin-bottom: 50px; }
+        .main-promotion
+.program-promotion
+.item-promotion
+.img-info-promotion
+img {
+          max-width: 100%;
+          width: 100%;
+          object-fit: cover; }
+      .main-promotion
+.program-promotion
+.item-promotion
+.link-additional {
+        position: absolute;
+        bottom: 60px;
+        background: #a31806;
+        padding: 10px 15px;
+        border: 1px solid #fff;
+        color: #fff;
+        text-transform: uppercase;
+        right: 20px; }
+      .main-promotion
+.program-promotion
+.item-promotion
+.pagination-page {
+        padding: 170px 0; }
+      .main-promotion
+.program-promotion
+.item-promotion
+.active {
+        background: #000 !important; }

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAU;EACN,gBAAgB,EAAE,sBAAsB;EACxC,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;;EACX,MAAM,EAAE,IAAI;;EACf,QAAQ,EAAC,QAAQ;EACjB,gBACA;IACE,OAAO,EAAE,8BAA8B;IACvC,QAAQ,EAAC,QAAQ;IACjB,KAAK,EAAE,IAAI",
+"sources": ["scrollup.scss"],
+"names": [],
+"file": "scrollup.css"
+}

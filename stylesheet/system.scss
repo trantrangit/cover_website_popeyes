@@ -1,0 +1,71 @@
+$fontsize:1em;
+$color-while:#fff;
+$color-black:#000;
+$color-red:#a31806;
+$height-persist-header:72px;
+$color-gray:#dddddd;
+$height-head-body:285px;
+$height-footer:181px;
+$height-clear:-60px;
+$height-head-body:300px;
+$padding-top-logo:200px;
+$color-bg:#fdf2de;
+$color-orange:#ff7900;
+$color-green:#389c38;
+$height-map:800px;
+$width-address:395px;
+$col-1:8.33%;
+$col-2:16.66%;
+$col-3:24.99%;
+$col-4:32.32%;
+$col-5:41.65%;
+$col-6:49.98%;
+$col-7:58.31%;
+$col-8:66.64%;
+$col-9:74.97%;
+$col-10:83.30%;
+$col-11:91.63%;
+$col-12:100%;
+ @mixin center-object
+ {
+	justify-content:center;
+	align-items:center;
+ }
+@mixin  clearfloat
+{
+	clear:both;
+	display:block;
+	height:0;
+	margin-top:-100px;
+}
+%shadow-fill
+{
+	-webkit-box-shadow: 1px -2px 19px 1px rgba(0,0,0,0.2);
+		-moz-box-shadow: 1px -2px 19px 1px rgba(0,0,0,0.2);
+		box-shadow: 1px -2px 19px 1px rgba(0,0,0,0.2);
+}
+%shadow-bottom
+{
+	-webkit-box-shadow: -2px 28px 64px -14px rgba(0,0,0,0.2);
+	-moz-box-shadow: -2px 28px 64px -14px rgba(0,0,0,0.2);
+	box-shadow: -2px 28px 64px -14px rgba(0,0,0,0.2);
+}
+*
+{
+	margin:0;
+	padding:0;
+	 box-sizing: border-box;
+}
+body,html
+{
+	margin:0;
+	padding:0;
+	height:100%;
+	font-size:1em;
+	&before
+	{
+		content:"";
+		 box-sizing: border-box;
+	}
+
+}

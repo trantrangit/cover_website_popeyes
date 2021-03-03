@@ -1,0 +1,178 @@
+@import 'system';
+.box-story 
+{
+	background: rgba(252, 241, 221, 0.5) url("/images/bg-coupon.png") no-repeat scroll;
+    background-size: 100%;
+    clear: both;
+	height:auto;
+    width: 100%;
+    margin-top: 0px;
+	img
+	{
+		max-width:80%;
+	}
+	.container 
+	{
+		 padding-top: 100px;
+	}
+	.grid {
+	  background: #DDD;
+	  max-width: 1200px;
+	}
+	 .list-history 
+    {
+
+        list-style:none;
+		display:flex;
+		flex-wrap:wrap;
+	
+		li 
+		{
+			width:16%;
+			a 
+			{
+				
+				color:$color-red;
+				
+				font-style: italic;
+				font-weight: bold;
+				line-height: 35px;
+				display:inline-block;
+				width:100%;
+				&:after 
+				{
+					content: "\f101";
+					font-family:FontAwesome;
+				}
+
+			}
+			.dot-history 
+			{
+				background: rgba(0, 0, 0, 0) url(/images/story/dot-story-year.png) no-repeat scroll 0 0;
+				float: right;
+				height: 15px;
+				vertical-align: middle;
+				width: 54%;
+				margin-top:9px;
+			}
+			
+		}
+        .start-history
+        {
+			background: url(/images/story/left-story-year.png) no-repeat;
+			height: 35px;
+			width: 13px;
+        }
+		 .end-history
+        {
+			background: url(/images/story/right-story-year.png) no-repeat;
+			height: 35px;
+			width: 13px;
+        }
+    }
+	/* clear fix */
+
+	/* ---- .grid-item ---- */
+	.grid 
+	{
+		background:transparent;
+		max-width: 100%;
+		&:after {
+		  content: '';
+		  display: block;
+		  clear: both;
+		}
+		.item-img 
+		{
+			img 
+			{
+				max-width:100%;
+				width:100%;
+			}
+		}
+		.content-history 
+		{
+			background:#f4e3c5;
+			padding:20px;
+		}
+		.content-img 
+		{
+			background:#f4e3c5;
+		}
+		.grid-item {
+		  float: left;
+
+		
+		}
+		.grid-col-1 
+		{ 
+			padding:15px;
+			width:$col-1;
+		}
+		.grid-col-2 
+		{ 
+			padding:15px;
+			width:$col-2;
+		}
+		.grid-col-3 
+		{ 
+			padding:15px;
+			width:$col-3;
+		}
+		.grid-col-4 
+		{ 
+			padding:15px;
+			width:$col-4;
+		}
+		.grid-col-5 
+		{ 
+			padding:15px;
+			width:$col-5;
+		}
+		.grid-col-6 
+		{ 
+			padding:15px;
+			width:$col-6;
+		}
+		.grid-col-7 
+		{ 
+			padding:15px;
+			width:$col-7;
+		}
+		.grid-col-8 
+		{ 
+			padding:15px;
+			width:$col-8;
+		}
+		.grid-col-9 
+		{ 
+			padding:15px;
+			width:$col-9;
+		}
+		.grid-col-10 
+		{ 
+			padding:15px;
+			width:$col-10;
+		}
+		.grid-col-11 
+		{ 
+			padding:15px;
+			width:$col-11;
+		}
+		.grid-col-12 
+		{ 
+			padding:15px;
+			width:$col-12;
+		}
+		.title-history 
+		{
+			img	
+			{
+				width:100%; 
+				max-width:100%; 
+				height:auto;
+				margin:0;
+			}
+		}
+	}
+}

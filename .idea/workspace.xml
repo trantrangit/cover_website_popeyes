@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b865fe84-f977-4a1b-bade-7aeadeba72d5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/FoodMenu.aspx" afterPath="$PROJECT_DIR$/FoodMenu.aspx" />
+      <change beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
+      <change beforePath="$PROJECT_DIR$/MasterPage.master" afterPath="$PROJECT_DIR$/MasterPage.master" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/Base.css" afterPath="$PROJECT_DIR$/stylesheet/Base.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/Base.css.map" afterPath="$PROJECT_DIR$/stylesheet/Base.css.map" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/Base.min.css" afterPath="$PROJECT_DIR$/stylesheet/Base.min.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/Base.scss" afterPath="$PROJECT_DIR$/stylesheet/Base.scss" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/foodmenu.css" afterPath="$PROJECT_DIR$/stylesheet/foodmenu.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/foodmenu.css.map" afterPath="$PROJECT_DIR$/stylesheet/foodmenu.css.map" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/foodmenu.min.css" afterPath="$PROJECT_DIR$/stylesheet/foodmenu.min.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/foodmenu.scss" afterPath="$PROJECT_DIR$/stylesheet/foodmenu.scss" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/foodnew.css" afterPath="$PROJECT_DIR$/stylesheet/foodnew.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/foodnew.css.map" afterPath="$PROJECT_DIR$/stylesheet/foodnew.css.map" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/foodnew.min.css" afterPath="$PROJECT_DIR$/stylesheet/foodnew.min.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/foodnew.scss" afterPath="$PROJECT_DIR$/stylesheet/foodnew.scss" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/promotion.css" afterPath="$PROJECT_DIR$/stylesheet/promotion.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/promotion.css.map" afterPath="$PROJECT_DIR$/stylesheet/promotion.css.map" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/promotion.min.css" afterPath="$PROJECT_DIR$/stylesheet/promotion.min.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/promotion.scss" afterPath="$PROJECT_DIR$/stylesheet/promotion.scss" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/reponsive-menu.css" afterPath="$PROJECT_DIR$/stylesheet/reponsive-menu.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/reponsive-menu.css.map" afterPath="$PROJECT_DIR$/stylesheet/reponsive-menu.css.map" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/reponsive-menu.min.css" afterPath="$PROJECT_DIR$/stylesheet/reponsive-menu.min.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/reponsive-menu.scss" afterPath="$PROJECT_DIR$/stylesheet/reponsive-menu.scss" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/reponsive.css" afterPath="$PROJECT_DIR$/stylesheet/reponsive.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/store.css" afterPath="$PROJECT_DIR$/stylesheet/store.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/store.css.map" afterPath="$PROJECT_DIR$/stylesheet/store.css.map" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/store.min.css" afterPath="$PROJECT_DIR$/stylesheet/store.min.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/store.scss" afterPath="$PROJECT_DIR$/stylesheet/store.scss" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/story.css" afterPath="$PROJECT_DIR$/stylesheet/story.css" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/system.scss" afterPath="$PROJECT_DIR$/stylesheet/system.scss" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="32" column="32" lean-forward="false" selection-start-line="35" selection-start-column="3" selection-end-line="36" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="popeyes_22_4_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popeyes_22_4_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="popeyes_22_4_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popeyes_22_4_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="popeyes_22_4_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="popeyes_22_4_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b865fe84-f977-4a1b-bade-7aeadeba72d5" name="Default" comment="" />
+      <created>1524653327356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524653327356</updated>
+      <workItem from="1524653334337" duration="992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="992000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31735888" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="32" column="32" lean-forward="false" selection-start-line="35" selection-start-column="3" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,123 @@
+@import 'system';
+.main-food
+{
+	background:$color-bg;
+}
+.box-welcome
+{
+	padding-top:100px;
+
+	img
+	{
+		width:100%;
+		max-width:100%;
+		object-fit:cover;
+
+	}
+	.welcome
+	{
+		width:100%;
+		max-width:50%;
+	}
+
+}
+.box-food 
+{
+	.wrap-category 
+	{
+		display:block;
+		width:100%;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		height:100%;
+		text-decoration: none;
+		.sub-category 
+		{
+			padding-bottom: 20px;
+			height: auto;
+			display:flex;
+			@include center-object;
+			flex-direction:column;
+			.img-food 
+			{
+				width:257px;
+				max-width:100%;
+				height:250px;
+			
+				img 
+				{
+					width:257px;
+					max-width:100%;
+					object-fit:contain;
+					height:250px;
+					padding-bottom: 30px;
+				}
+				
+			}
+			.btn-food-new
+			{ 
+				width:70%;
+				background-image: -webkit-linear-radient(#f6892f, #ce6009);
+				background-image: -webkit-linear-gradient(#f6892f, #ce6009);
+				background-image: -moz-linear-gradient(#f6892f, #ce6009);
+				background-image: -ms-linear-gradient(#f6892f, #ce6009);
+				background-image: -o-linear-gradient(#f6892f, #ce6009);
+				border-radius:5px;
+				text-align:center;
+				.btn.btn-food
+					{
+						
+							color:$color-while;
+							text-transform:uppercase;
+							
+							padding:5px 10px;
+							
+					}
+				}
+		}
+		.sub-category-promotion
+		{
+			background:$color-while;
+			@extend %shadow-fill;
+			padding:10px;
+			.img-promtion
+			{
+				width: 100%;
+				max-width: 100%;
+				height: auto;
+				display:flex;
+				@include center-object;
+				
+				img
+				{
+					width:147px;
+					height:147px;
+					
+				}
+				
+			}
+			
+			font-weight:bold;
+			text-align:center;
+			.title-promotion-food 
+			{
+				color:$color-orange;
+				
+			}
+			.price-promotion 
+			{
+				font-size:$fontsize + 0.5em;
+				color:$color-green;
+			}
+		}
+	}
+	.title-menu-footer 
+	{
+		color:$color-red;
+		text-transform:uppercase;
+		text-align:center;
+		font-weight:bold;
+	}
+	
+	
+}

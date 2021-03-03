@@ -1,0 +1,46 @@
+body
+{
+       font-size:1em;
+}
+#my-gallery-container {
+    width:100%;
+}
+
+.item {
+	width: 100%;
+	min-height: 100px;
+	/*box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 2px;
+	border-radius: 4px;*/
+	margin-bottom:30px;
+}
+
+.item:hover {
+	opacity: 0.8;
+}
+.item img {
+    width:100%;
+    height:auto;
+    max-width:100%;
+}
+.item.h150{
+	width: 100%;
+	min-height: 150px;
+}
+
+.item.h200{
+	width: 100%;
+	min-height: 200px;
+
+}
+
+.item.h250{
+	width: 100%;
+	min-height: 200px;
+}
+.padding{
+	padding: 15px;
+}
+.width-200
+{
+    width:calc(200% + 30px);
+}

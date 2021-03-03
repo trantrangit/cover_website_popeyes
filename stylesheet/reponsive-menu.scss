@@ -1,0 +1,94 @@
+@import 'system';
+	.menu-mobile 
+	{
+		height:74px;
+		width:100%;
+		margin-top:76px;
+	
+		.list-menu ,.login
+		{
+			list-style:none;
+			text-transform:uppercase;
+			font-weight:bold;
+			
+			.nav-item , li
+			{
+				padding:10px;
+				border-bottom:1px dotted $color-orange;
+				a 
+				{
+					text-decoration:none;
+					color:$color-orange;
+				}
+				.menu-food 
+				{
+					
+					list-style:none;
+				}
+			}
+
+			a 
+			{
+				text-decoration:none;
+				color:$color-orange;
+			}
+		}
+		section {
+		  display: none;
+		  padding: 20px 0 0;
+		  border-top: 1px solid #ddd;
+		   background:$color-while;
+		}
+
+		input {
+		  display: none;
+		   background:$color-while;
+		}
+
+		label {
+		  display: inline-block;
+		  margin: 0 0 -1px;
+		  padding: 10px 25px;
+		  text-align: center;
+		  color: #bbb;
+		  border: 1px solid transparent;
+		  font-size:$fontsize + 0.2em;
+		  width:32%;
+		  background:$color-while;
+		
+		}
+
+		label:before {
+		  font-family: fontawesome;
+		  font-weight: normal;
+		
+		}
+
+		label[for*='1']:before { content: '\f0c9'; }
+		label[for*='2']:before { content: '\f007'; }
+		label[for*='3']:before { content: '\f07a'; }
+	
+
+		label:hover {
+		  color: #888;
+		  cursor: pointer;
+		}
+
+		input:checked + label {
+		  color: #555;
+		  border: 1px solid #ddd;
+		  border-bottom: 1px solid #fff;
+		}
+
+		/*#tab1:checked ~ #content1,
+		#tab2:checked ~ #content2,
+		#tab3:checked ~ #content3,
+		#tab4:checked ~ #content4 {
+		  display: block;
+		}
+		*/
+	
+
+
+
+}
